@@ -30,13 +30,13 @@ ul li {
 
 ul li a {
 	padding: 1px;
-	color: white;
+	color: black;
 	text-decoration: none;
 	border-radius: 10px;
 }
 
 ul li a:hover {
-	background-color: black;
+	background-color: rgb(255, 87, 165);
 	border-radius: 10px;
 }
 
@@ -45,8 +45,8 @@ footer {
 	text-align: center;
 }
 
-/* img {
-  width: 45px
-  height: 45px
-} */
+img {
+  	width: 400px;
+  	height: 300px;
+}
     
