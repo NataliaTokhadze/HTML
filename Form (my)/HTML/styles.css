@@ -1,0 +1,140 @@
+body {
+    background-color: black;
+}
+
+div {
+    border: 1px solid white;
+    width: 666px;
+    position: absolute;
+    right: 350px;
+}
+
+h1 {
+    text-align: center;
+    color:white;
+    font-size: 50px;
+    margin-bottom: 10px;
+}
+
+hr{
+    color: white;
+    width: 95%;
+}
+
+h2 {
+    text-align:start;
+    color: white;
+    margin: 15px;
+    margin-top: 40px;
+    margin-bottom: 7px;
+}
+
+#first {
+    border-radius: 7px;
+    font-size: 22px;
+    position: relative;
+    margin-left: 15px;
+}
+#last{
+    border-radius: 7px;
+    font-size: 22px;
+    position: relative;
+    margin-left: 20px;
+}
+
+#enter1 {
+    color: white;
+    font-size: 10px;
+    position: relative;
+    margin-left: 15px;
+    font-weight: lighter;
+    margin-top: 6px;
+}
+
+#enter2 {
+    color: white;
+    font-size: 10px;
+    position: relative;
+    font-weight: 100;
+    margin-left: 317px;
+    margin-top: -35px;
+}
+
+#address{
+    text-align:start;
+    color: white;
+    margin: 17px;
+    margin-top: 40px;
+    margin-bottom: 7px;
+}
+
+#street1{
+    border-radius: 7px;
+    font-size: 22px;
+    position: relative;
+    margin-left: 15px;
+    width: 94%;
+}
+
+#enter3{
+    color: white;
+    font-size: 10px;
+    position: relative;
+    margin-left: 17px;
+    font-weight: 100;
+    margin-top: 6px;
+}
+
+#street2{
+    border-radius: 7px;
+    font-size: 22px;
+    position: relative;
+    margin-left: 15px;
+    width: 94%;
+    margin-top: -10px;
+}
+
+#enter4{
+    color: white;
+    font-size: 10px;
+    position: relative;
+    margin-left: 17px;
+    font-weight: 100;
+    margin-top: 6px;
+}
+
+#name {
+    text-align:start;
+    color: white;
+    margin: 17px;
+    margin-top: 40px;
+    margin-bottom: 7px;
+}
+
+#city {
+    border-radius: 7px;
+    font-size: 22px;
+    position: relative;
+    margin-left: 15px;
+}
+
+#state{
+    border-radius: 7px;
+    font-size: 22px;
+    position: relative;
+    margin-left: 20px;
+}
+
+#enter5 {
+    color: white;
+    font-size: 10px;
+    position: relative;
+    font-weight: 100;
+}
+
+#enter6 {
+    color: white;
+    font-size: 10px;
+    position: relative;
+    font-weight: 100;
+}
